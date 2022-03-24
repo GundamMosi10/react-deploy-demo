@@ -1,7 +1,7 @@
 import React from 'react';
 import '../styles/socialmedia.css';
 
-export default function Contact() {
+export default function Socials() {
   return (
     <div>
       <section className="card">

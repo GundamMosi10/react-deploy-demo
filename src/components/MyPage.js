@@ -3,7 +3,7 @@ import NavTabs from './NavTabs';
 import About from './pages/About';
 import Portfolio from './pages/Portfolio';
 import Socials from './pages/Socials';
-import Resume from './pages/Resume';
+import Contact from './pages/Contact';
 
 export default function MyPage() {
     const [currentPage, setCurrentPage] = useState('About');
@@ -18,7 +18,7 @@ export default function MyPage() {
         if (currentPage === 'Socials') {
             return <Socials />;
         }
-        return <Resume />;
+        return <Contact />;
     };
 
     const handlePageChange = (page) => setCurrentPage(page);

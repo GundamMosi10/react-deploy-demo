@@ -1,16 +1,26 @@
 import React from 'react';
+import '../styles/about.css';
+import me from "../../Assets/6bba22bb-23b0-4046-a306-98091dcc8041 2.jpeg";
 
 export default function About() {
   return (
-    <div>
-      <h1>About Me Page</h1>
-      <p>
-        <strong>
-        Hi! My name is Colin. I am a web developer based out of New York City. 
-        I enjoy collaborating and building creative websites with you the client in
-        mind using HTML, CSS and JavaScript.
-        </strong>
-      </p>
+    <div className="about-area">
+      <div className="container">
+        <div className="row">
+          <div className="col-lg-4">
+            <div className="about-img">
+              <img src={me} alt="">
+              </img>
+            </div>
+          </div>
+          <div className="col-lg-6 colr-lg-offset-1">
+            <div className="about-text">
+              <h2>Colin M. Cargile</h2>
+              <p>I am a Full-Stack web developer based out of New York City</p>
+            </div>         
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

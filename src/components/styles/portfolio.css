@@ -31,7 +31,7 @@
 
 .container .card .face.face1 {
     position: relative;
-    background: #333;
+    background: rgb(63, 62, 62);
     display: flex; 
     justify-content: center;
     align-items: center;
@@ -40,7 +40,7 @@
 }
 
 .container .card:hover .face.face1 {
-    background: #ff0057;
+    background: #00c3ff;
     transform: translateY(0);
 }
 

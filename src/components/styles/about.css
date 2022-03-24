@@ -1,0 +1,42 @@
+.about-area {
+    padding-top: 5%;
+}
+
+body {
+    background: black;
+}
+
+.about-img {
+    position: relative;
+}
+
+.about-img:before {
+    position: absolute;
+    content: '';
+    right: 30px;
+    top: 20px;
+    border: 10px solid rgba(66, 137, 179, 0.5);
+    width: 100%;
+    height: 100%;
+}
+
+.about-img img {
+    width: 100%;
+}
+
+.about-text {
+    padding-top: 20%;
+}
+
+.about-text h2{
+    color: black;
+    font-family: lobster;
+    font-size: 50px;
+}
+
+.about-text p {
+    font-size: 18px;
+    color: black;
+}
+
+

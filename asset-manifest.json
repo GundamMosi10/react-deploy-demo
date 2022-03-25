@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-deploy-demo/static/css/main.20780dd0.css",
-    "main.js": "/react-deploy-demo/static/js/main.00d64eb8.js",
+    "main.css": "/react-deploy-demo/static/css/main.71d02501.css",
+    "main.js": "/react-deploy-demo/static/js/main.ec9fc7ea.js",
     "static/media/6bba22bb-23b0-4046-a306-98091dcc8041 2.jpeg": "/react-deploy-demo/static/media/6bba22bb-23b0-4046-a306-98091dcc8041 2.def5ff313426e976ee6a.jpeg",
     "static/media/Screenshot-QUACK.png": "/react-deploy-demo/static/media/Screenshot-QUACK.9917562a38428cd81420.png",
     "static/media/screenshot.png": "/react-deploy-demo/static/media/screenshot.ee31c7525098853e503e.png",
     "static/media/Screenshot-Note Taker.png": "/react-deploy-demo/static/media/Screenshot-Note Taker.1f33b70885436d1b0f13.png",
     "static/media/ColinResume2021NEW3.pdf": "/react-deploy-demo/static/media/ColinResume2021NEW3.bb78953760c120616ed8.pdf",
     "index.html": "/react-deploy-demo/index.html",
-    "main.20780dd0.css.map": "/react-deploy-demo/static/css/main.20780dd0.css.map",
-    "main.00d64eb8.js.map": "/react-deploy-demo/static/js/main.00d64eb8.js.map"
+    "main.71d02501.css.map": "/react-deploy-demo/static/css/main.71d02501.css.map",
+    "main.ec9fc7ea.js.map": "/react-deploy-demo/static/js/main.ec9fc7ea.js.map"
   },
   "entrypoints": [
-    "static/css/main.20780dd0.css",
-    "static/js/main.00d64eb8.js"
+    "static/css/main.71d02501.css",
+    "static/js/main.ec9fc7ea.js"
   ]
 }
